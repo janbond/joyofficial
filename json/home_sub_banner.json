@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "PC遊玩服務上線",
+    "subTitle": "PC CLIENT",
+    "desc": "提供想透過PC遊玩的玩家<br>支援基本操作遊玩的服務",
+    "image": "1",
+    "link": "https://bbm3.joybomb.com.tw/pcplay/index"
+  },
+  {
+    "id": 2,
+    "title": "二之國：交錯世界",
+    "subTitle": "PC模擬器Beta服務",
+    "desc": "提供想透過PC遊玩的玩家<br>支援基本操作遊玩的服務",
+    "image": "2",
+    "link": "https://2worlds.netmarble.com/tc/pcplay"
+  }
+]

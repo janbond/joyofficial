@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "全民打棒球Pro",
+    "desc": "速戰速決、直球對決!輕鬆享受揮棒樂趣~自動完成例行賽!<br>悠哉、輕鬆地累積成長資源!",
+    "image": "bbm3",
+    "link": "https://bbm3.joybomb.com.tw/"
+  },
+  {
+    "id": 2,
+    "title": "戀與製作人",
+    "desc": "在跌宕起伏的超現實世界中體驗心動!<br>這是屬於你的愛和夢想,那就都要棋逢對手!",
+    "image": "evol",
+    "link": "https://evol.joybomb.com.tw/dist/index.html"
+  },
+  {
+    "id": 3,
+    "title": "棒球殿堂",
+    "desc": "在跌宕起伏的超現實世界中體驗心動!<br>這是屬於你的愛和夢想,那就都要棋逢對手!",
+    "image": "pitw",
+    "link": "https://pitw2.joybomb.com.tw/"
+  },
+  {
+    "id": 4,
+    "title": "全民打棒球Pro",
+    "desc": "速戰速決、直球對決!輕鬆享受揮棒樂趣~自動完成例行賽!<br>悠哉、輕鬆地累積成長資源!",
+    "image": "bbm3",
+    "link": "https://bbm3.joybomb.com.tw/"
+  },
+  {
+    "id": 5,
+    "title": "戀與製作人",
+    "desc": "在跌宕起伏的超現實世界中體驗心動!<br>這是屬於你的愛和夢想,那就都要棋逢對手!",
+    "image": "evol",
+    "link": "https://evol.joybomb.com.tw/dist/index.html"
+  },
+  {
+    "id": 6,
+    "title": "棒球殿堂",
+    "desc": "在跌宕起伏的超現實世界中體驗心動!<br>這是屬於你的愛和夢想,那就都要棋逢對手!",
+    "image": "pitw",
+    "link": "https://pitw2.joybomb.com.tw/"
+  }
+]
